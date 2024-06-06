@@ -103,5 +103,8 @@ body {
     text-decoration: none;
     margin-bottom: 1em;
 }
+.container__caixa {
+    margin: 0 6em;
+}
 
 
